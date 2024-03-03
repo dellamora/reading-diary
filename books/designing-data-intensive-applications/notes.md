@@ -21,3 +21,7 @@ Data models are important because they can determine how we think about the prob
 **ORM: The Object-Relational Mismatch**: Is request just one query because the relavant data are more easy to get it than creating a lot of queries because there are a lot of tables relations and the book cover some examples
 
 (I just got lazy and didn't write more notes about this chapter)
+
+### Chaper 3: Storage and Retrieval
+
+A database needs to do two things: **store data and retrieve data**.
