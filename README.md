@@ -9,7 +9,7 @@ Here, you'll find a list of books, courses, and other materials I've read or wat
 
 - [Books](/books/my_list.md): A list of books I've read, with notes on some of them.
 - [Courses](/courses/my_courses.md): A list of courses I've taken, including my notes, solutions, and resources.
-- [Reading List](/reading-list/may_2024.md): A collection of things I've read or watched, updated over time.
+- [Reading List 2024](/reading-list/2024.md): A collection of things I've read or watched, updated over time.
 
 ## Usage
 
