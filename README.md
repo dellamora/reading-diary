@@ -1,29 +1,20 @@
-# Reading Diary
+<div align="center">
+<h1>Welcome to My Reading Diary ^^</h1>
+  <img src="./assets/nyaruko.jpg" alt="Nyaruko" style="max-width: 100%; height: auto;">
+</div>
 
-Welcome to my reading diary! Here, you'll find my notes and summaries for various materials related to Advanced Database Systems. These notes are my personal takeaways and summaries. They might not cover everything, so don't forget to check out the original sources for a complete understanding.
+Here, you'll find a list of books, courses, and other materials I've read or watched, along with my personal notes and summaries. These are my interpretations, so be sure to check out the original sources for complete details.
 
 ## What's Inside?
 
-### Books
-
-For now im reading the book ["designing data-intensive applications"](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) by [Martin Kleppmann](https://martin.kleppmann.com/). I'll be adding my notes and summaries for each chapter as I read through the book.
-
-### Advanced Database Systems (Spring 2020)
-
-This folder contains my notes and summaries for the Advanced Database Systems course at Carnegie Mellon University. The course covers a wide range of topics related to advanced database systems. Each file contains notes and summaries for the corresponding lecture.
+- [Books](/books/my_list.md): A list of books I've read, with notes on some of them.
+- [Courses](/courses/my_courses.md): A list of courses I've taken, including my notes, solutions, and resources.
+- [Reading List](/reading-list/may_2024.md): A collection of things I've read or watched, updated over time.
 
 ## Usage
 
-Feel free to use these notes for your personal reference. If you find them helpful, please consider giving this repository a star. If you have any suggestions or corrections, feel free to submit a pull request.
+Feel free to use these notes for your personal reference. If you find them helpful, please consider giving this repository a star. If you have any suggestions or corrections, you're welcome to submit a pull request.
 
 ## Disclaimer
 
-The notes provided here are personal interpretations and summaries. They may not fully cover all aspects of the materials discussed. It's recommended to refer to the original sources for comprehensive understanding.
-
-## Contributing
-
-Contributions to improve or expand the notes are welcome. If you have additional insights, corrections, or suggestions, feel free to submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
+These notes are personal interpretations and summaries. They may not cover all aspects of the materials. For a complete understanding, please refer to the original sources.

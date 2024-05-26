@@ -9,8 +9,8 @@ Basically, all the old database issues are still the same in today's debate. The
 **Network Data Model**: The network data model is a database model conceived as a flexible way of representing objects and their relationships. Its distinguishing feature is that the schema, viewed as a graph in which object types are nodes and relationship types are arcs, is not restricted to being a hierarchy or lattice.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./assets/schema_network.png" style="max-width: 30%; height: auto;">
-    <img src="./assets/relational_DBMS.png" style="max-width: 70%; height: auto;">
+    <img src="../../assets/courses/database/schema_network.png" style="max-width: 30%; height: auto;">
+    <img src="../../assets/courses/database/relational_DBMS.png" style="max-width: 70%; height: auto;">
 </div>
 
 **1960s- IBM IMS**: Early database sustem developed to keeep track of purchase orders for Apollo moon missions
@@ -20,7 +20,7 @@ tuple-at-a-time queries
 
 **Hierarchical Data Model**: The hierarchical data model organizes data in a tree structure. There is a hierarchy of parent and child data segments. This structure implies that a record can have repeating information, generally in the child data segments. This model is very effective in one-to-many relationships.
 
-<img src="./assets/hierarchical_DBMS.png" syle="max-width: 100%; height: auto;">
+<img src="../../assets/courses/database/hierarchical_DBMS.png" syle="max-width: 100%; height: auto;">
 
 **Late 1960s and early 1970s Relational Model**:[Ted Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) **Late 1960s and early 1970s Relational Model**:[Ted Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) was a mathematician working ar IBM Research. He saw developers spending their time rewriting IMDS and Codasyl programs every time the databsses schema or laryout changed.
 
@@ -31,7 +31,7 @@ To avoid this maintenance:
 - Access data through a high-level language
 - Physical storage left up to implementation
 
-<img src="./assets/relational_DBMS.png" syle="max-width: 100%; height: auto;">
+<img src="../../assets/courses/database/relational_DBMS.png" syle="max-width: 100%; height: auto;">
 
 **1970s - Relational Mode**:
 
@@ -45,8 +45,8 @@ note: [stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker) creates P
 
 **1980s Object-Oriented database**: few of these original DBMSs from the 1980s still exist today but many of the technologies exist in other forms (JSON, XML)
 
-<img src="./assets/object_oriented_DBMS.png" syle="max-width: 100%; height: auto;">
-<img src="./assets/doc.png" syle="max-width: 100%; height: auto;">
+<img src="../../assets/courses/database/object_oriented_DBMS.png" syle="max-width: 100%; height: auto;">
+<img src="../../assets/courses/database/doc.png" syle="max-width: 100%; height: auto;">
 
 **1990s - Boring Days**: No major advancements in database systems or application workloads. Microssot forks sybase and creates SQL Server. MySQL is written as a replacement for mSQL. Postgres gets SQL support. SQLite started in early 2000.
 
