@@ -1,20 +1,23 @@
 ## Reading
-- [Designing Data-Intensive Applications](/books/designing-data-intensive-applications/notes.md)
+- [Designing Data-Intensive Applications](/books/notes/designing_data_intensive_applications.md)
 - [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology)
-- [The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World](https://www.amazon.com.br/Ruthless-Elimination-Hurry-John-Mark/dp/0525653090)
 
 
 ## Want to Read
 - Why we Sleep(Matthew Walkwer)
+- The Circadian Code: Lose Weight, Supercharge Your Energy and Sleep Well Every Night
+- The Craft od Research wayne c. booth, gregory g. colomb, joseph m. williams
 - The marshmallow test walter mischel
 - The complete TurtleTrader: How 23 Novice Investors Became Overnight Millionaires
+
 
 ## Read
 
 <details>
     <summary>2024</summary>
 
-- [O ceticismo da fé: Deus: uma dúvida, uma certeza, uma distorção (Rodrigo Silva)  ](https://www.amazon.com.br/Ceticismo-f%C3%A9-D%C3%BAvida-Certeza-Distor%C3%A7%C3%A3o/dp/8582162073)
+- O ceticismo da fé: Deus: uma dúvida, uma certeza, uma distorção (Rodrigo Silva)
+- [The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World (John Mark Comer)](/books/notes/the_ruthless_elimination_of_hurry.md)
 
 </details>
 
