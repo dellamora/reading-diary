@@ -9,7 +9,7 @@
 - The Craft od Research wayne c. booth, gregory g. colomb, joseph m. williams
 - The marshmallow test walter mischel
 - The complete TurtleTrader: How 23 Novice Investors Became Overnight Millionaires
-
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 ## Read
 
