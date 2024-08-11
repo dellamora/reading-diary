@@ -1,6 +1,8 @@
 ## Reading
 - [Designing Data-Intensive Applications](/books/notes/designing_data_intensive_applications.md)
 - [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology)
+- We Yevgeny Zamyatin
+
 
 
 ## Want to Read
@@ -19,6 +21,7 @@
 
 - O ceticismo da fé: Deus: uma dúvida, uma certeza, uma distorção (Rodrigo Silva)
 - [The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World (John Mark Comer)](/books/notes/the_ruthless_elimination_of_hurry.md)
+- [Grokking algorithms Bhargava ](./notes/grokking_algorithms.md)
 
 </details>
 
