@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Welcome to My Reading Diary ^^</h1>
-  <img src="./assets/nyaruko.jpg" alt="Nyaruko" style="max-width: 100%; height: auto;">
 </div>
 
 Here, you'll find a list of books, courses, and other materials I've read or watched, along with my personal notes and summaries. These are my interpretations, so be sure to check out the original sources for complete details.
