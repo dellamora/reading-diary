@@ -1,4 +1,3 @@
 - [Intuitively Understanding the Shannon Entropy](https://www.youtube.com/watch?v=0GCGaw0QOhA)
-- [Full Iso-recursive Types](https://arxiv.org/abs/2407.00941)
 - [Alan Watts - The Principle Of Not Forcing](https://www.youtube.com/watch?v=ZzaUGhhnlQ8)
 - https://shikaan.github.io/assembly/x86/guide/2024/09/16/x86-64-conditionals.html
