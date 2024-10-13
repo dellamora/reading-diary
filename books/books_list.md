@@ -22,7 +22,8 @@
 - O ceticismo da fé: Deus: uma dúvida, uma certeza, uma distorção (Rodrigo Silva)
 - [The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World (John Mark Comer)](/books/notes/the_ruthless_elimination_of_hurry.md)
 - [Grokking algorithms Bhargava ](./notes/grokking_algorithms.md)
-
+- O segredo judaico ade resolução de problemas – Nilton Bonder
+    
 </details>
 
 <details>
