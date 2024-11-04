@@ -1,3 +1,9 @@
 - [Intuitively Understanding the Shannon Entropy](https://www.youtube.com/watch?v=0GCGaw0QOhA)
 - [Alan Watts - The Principle Of Not Forcing](https://www.youtube.com/watch?v=ZzaUGhhnlQ8)
 - https://shikaan.github.io/assembly/x86/guide/2024/09/16/x86-64-conditionals.html
+-[Enter The Arena: Simplifying Memory Management](https://www.youtube.com/watch?v=TZ5a3gCCZYo)
+- https://blog.brownplt.org/2021/07/31/behavioral-hof.html…
+- https://blog.brownplt.org/2022/07/09/plan-comp-hof.html…
+- https://blog.brownplt.org/2022/08/16/struct-pipe-comp.html…
+- [A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
+- https://en.m.wikipedia.org/wiki/What_Is_Life%3F
