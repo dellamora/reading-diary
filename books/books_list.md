@@ -1,7 +1,6 @@
 ## Reading
 - [Designing Data-Intensive Applications](/books/notes/designing_data_intensive_applications.md)
 - [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology)
-- We Yevgeny Zamyatin
 
 
 
@@ -15,7 +14,10 @@
 - The Design of Everyday Thing
 
 ## Read
-
+<details>
+    <summary>2025</summary>
+-  We Yevgeny Zamyatin
+</details>
 <details>
     <summary>2024</summary>
 
