@@ -18,7 +18,7 @@
     <summary>2025</summary>
 
 - O monge e o executivo: Uma história sobre a essência da liderança
--  We Yevgeny Zamyatin
+-  [We Yevgeny Zamyatin](./notes/we.md)
 
 </details>
 <details>
