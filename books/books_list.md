@@ -16,7 +16,10 @@
 ## Read
 <details>
     <summary>2025</summary>
+
+- O monge e o executivo: Uma história sobre a essência da liderança
 -  We Yevgeny Zamyatin
+
 </details>
 <details>
     <summary>2024</summary>
